@@ -1,0 +1,32 @@
+body {
+  background: #e7cba9;
+}
+
+h1 {
+  color: #9f5824;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+
+footer a {
+  margin: 0 15px;
+  color: #376062;
+  font-size: 18px;
+}
+
+.croissant-picture {
+  display: block;
+  margin: 25px auto;
+  width: 400px;
+  border-radius: 8px;
+}
